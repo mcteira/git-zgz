@@ -1,4 +1,6 @@
 # git-zgz
 git/zgz
 
-cambio 1 demo / a;adido
+cambio 1 demo - añadido
+
+otro cambio
