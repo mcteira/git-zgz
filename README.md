@@ -24,3 +24,5 @@ commit 3
 Ej.3. Commit a change
 
 Ej.4. Commit a second change
+
+Ej.5. Master change1
