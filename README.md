@@ -27,3 +27,7 @@ Ej.4. Commit a second change
 
 Ej.5. Master change1
 Ej.5. Master change2
+Ej.4. Commit a second change
+
+Ej.5. Branch change1
+Ej.5. Branch change2
